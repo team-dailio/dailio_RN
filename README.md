@@ -1,1 +1,1 @@
-# dailio_RN
+# ReactNative + Expo + TypeScript
